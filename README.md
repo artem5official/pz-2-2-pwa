@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+# ПЗ 2.2 Основи JavaScript для PWA додатків
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Виконав Пухайло Артем, група С-45.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Створено проєкт Vue PWA за допомогою Vite.
+Перевірено локальний запуск і виконано збірку.
+Застосунок опубліковано на Cloudflare та встановлено на комп’ютері.
+
+Посилання на застосунок: https://cool-wind-ca08.artem-puhajlo.workers.dev/
